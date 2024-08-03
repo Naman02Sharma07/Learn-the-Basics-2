@@ -52,3 +52,15 @@ router.get('/', function(req, res) {
 });
 
 //BUT CREATING AGLOBAL VARIABLE SO THAT EVERYTIME YOU PASS A NEW DATA TO ANOTHER IS NOT A GREAT IDEA 
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------
+
+
+Intermediate mongoBD 
+
